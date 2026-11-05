@@ -1,0 +1,7 @@
+[project]
+name = "candlevault"
+version = "0.1.0"
+description = "Laboratório local de ingestão de candles fictícios em SQLite"
+requires-python = ">=3.11"
+readme = "README.md"
+dependencies = []

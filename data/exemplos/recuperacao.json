@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "candles": [
+    {
+      "source": "FICTICIA",
+      "symbol": "BTCUSDT",
+      "interval": "1m",
+      "open_time": "2026-11-05T12:02:00+00:00",
+      "close_time": "2026-11-05T12:03:00+00:00",
+      "open": "100150.00",
+      "high": "100220.00",
+      "low": "100100.00",
+      "close": "100150.00",
+      "volume": "0.175",
+      "is_closed": true,
+      "snapshot_at": "2026-11-05T12:03:00+00:00"
+    }
+  ]
+}
